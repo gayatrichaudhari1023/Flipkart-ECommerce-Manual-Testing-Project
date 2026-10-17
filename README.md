@@ -16,3 +16,5 @@ This project demonstrates the end-to-end Functional Manual Testing of the Flipka
 
 ## 📄 Deliverables Attached
 Flipkart_ECommerce_Manual_Testing_Project.xlsx:** Contains comprehensive operational test cases with Test ID, Description, Steps, and Expected Results.
+
+*Developed by Gayatri Chaudhari*
